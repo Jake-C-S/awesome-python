@@ -1,0 +1,5 @@
+project: awesome-python
+target: fuzzme
+
+cmds:
+  - cmd: /fuzzme
